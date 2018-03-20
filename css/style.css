@@ -105,8 +105,9 @@ body {
 .start_title {
 	display: flex;
 	justify-content: center;
+	text-align: center;
 	font-family: Abril;
-	font-size: 15vmin;
+	font-size: 100px;
 	color: seashell;
 	text-shadow: 0 0 30px black;
 }
@@ -123,7 +124,6 @@ body {
 	border: 3px solid white;
 	font-family: Montserrat;
 	font-size: 3vmin;
-	height: 3vmax;
 	width: 50%;
 	height: 10%;
 	border-radius: 5px;
@@ -360,6 +360,23 @@ img.markerKey {
 }
 
 /* Media Queries */
+
+@media (max-width: 780px) {
+	.informationOverlay p {
+		font-size: 3.5vmin;
+	}
+	.sectionInfo {
+		display: flex;
+	}
+
+	.event-header,
+	.event-body,
+	.restaurant-header,
+	.restaurant-body {
+		width: 48%;
+		margin: auto;
+	}
+}
 
 /* iPhone 6,7,8 */
 @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) {
