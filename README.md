@@ -12,7 +12,7 @@ Begin by entering the location and date of the night you want to plan. Next, scr
 ![Listings Page](images/listings.jpg) | ![Map Page](images/map.jpg)
 :-------------------------:|:-------------------------:
 
-##Getting Started
+## Getting Started
 
 1. Fork the repo 
 2. Clone
