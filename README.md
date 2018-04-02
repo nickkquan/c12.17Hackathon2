@@ -6,10 +6,10 @@ An event planning application to help you plan the drinks and eats near an event
 
 Begin by entering the location and date of the night you want to plan. Next, scroll through the list of events which you can purchase tickets through Ticketmaster. When you find the event you want, click it and you will be guided to the maps section. The map will be populated with both restaurants and bars located near the event venue. The markers are colored according to their type, drinks or eats. The user can click a marker to see basic information, or look to the sidebar to see a more detailed description. Enjoy your night!
 
-![Landing Page](images/landingpage.jpg) | ![Search for Events](images/searchpage.jpg)
+![Landing Page](client/images/landingpage.jpg) | ![Search for Events](client/images/searchpage.jpg)
 :-------------------------:|:-------------------------:
 
-![Listings Page](images/listings.jpg) | ![Map Page](images/map.jpg)
+![Listings Page](client/images/listings.jpg) | ![Map Page](client/images/map.jpg)
 :-------------------------:|:-------------------------:
 
 ## Getting Started
